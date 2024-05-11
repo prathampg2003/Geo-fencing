@@ -1,7 +1,13 @@
 # GPS Geofencing System with Arduino and TinyGPSPlus
 
 This project implements a GPS geofencing system using an Arduino board and the TinyGPSPlus library. The system detects whether a GPS receiver's location is within a specified geofence area and alerts accordingly.
+#### When radius is 400m:-
 ![image](https://github.com/prathampg2003/Geo-fencing/assets/89197939/c057821e-eb5e-4bbf-b313-938991479831)
+
+#### When radius is 10m:-
+
+![WhatsApp Image 2024-05-07 at 18 36 57_4f2552f3](https://github.com/prathampg2003/Geo-fencing/assets/89197939/e49c6e1c-b049-4785-b6e6-47b0b5d55e8d)
+
 
 ### Components Used:
 - Arduino board
